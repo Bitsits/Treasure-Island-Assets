@@ -1,0 +1,14 @@
+Category: games
+
+Sub-category: action + adventure
+
+Detailed description:
+Drag the Player to move around. Collect as many treasure chest as you can. Find the cross mark to go to the next level. To move to the next island use the boat.
+Music: Track "Cold Water" from Album "Life's Path" by mindthings.
+Pixel Art: Oddball’s small offerings And Oryx - LOFI Fantasy 2D/3D.
+
+Product ID: 8d73dd02-c8b7-4f52-8725-9394006a8333
+
+Deep link: http://windowsphone.com/s?appid=8d73dd02-c8b7-4f52-8725-9394006a8333
+
+Keywords: ship, boat, octopus, fox, treasure, island, adventure, sea
